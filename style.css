@@ -1,0 +1,81 @@
+/* Styles for conversation container */
+.rw-conversation-container {
+  /* Styles for header */
+  .rw-header {
+    background-color: #0c2e8a !important;
+    .rw-title {
+    }
+    .rw-close-function {
+    }
+    .rw-loading {
+    }
+  }
+
+  .rw-messages-container {
+    .rw-message {
+      .rw-client {
+        background-color: #0c2e8a;
+      }
+      .rw-response {
+      }
+    }
+
+    /* Styles for replies */
+    .rw-replies {
+      /* Styles for reply */
+      .rw-reply {
+        /* Add styles for reply */
+      }
+      /* Styles for reply response */
+      .rw-response {
+        /* Add styles for reply response */
+      }
+    }
+
+    /* Styles for snippet */
+    .rw-snippet {
+      /* Styles for snippet title */
+      .rw-snippet-title {
+        /* Add styles for snippet title */
+      }
+      /* Styles for snippet details */
+      .rw-snippet-details {
+        /* Add styles for snippet details */
+      }
+     
+      .rw-link {
+        
+      }
+    }
+
+    
+    .rw-imageFrame {
+     
+    }
+
+    
+    .rw-videoFrame {
+     
+    }
+  }
+
+  
+  .rw-sender {
+  
+    .rw-new-message {
+      
+    }
+    
+    .rw-send {
+      
+    }
+  }
+}
+
+.rw-widget-container .rw-launcher{
+    background-color: #0c2e8a!important;
+}
+
+.rw-widget-embedded{
+   
+}
